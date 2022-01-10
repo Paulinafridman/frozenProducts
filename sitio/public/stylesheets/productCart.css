@@ -1,0 +1,90 @@
+@import"style.css";
+
+.bodi{   
+    background-color:#f1f1f1a6;
+    
+}
+
+/* textos */
+.mr-3{
+    color: whitesmoke;
+}
+.text-uppercase{
+    color: whitesmoke;
+}
+.justify-content-between{
+    color: whitesmoke;
+}
+.list-group-flush{
+    color: black;
+    border-radius: 2px;
+}
+
+/* .col-lg-8{
+    border: 11px solid;
+    border-radius: 16px;
+} */
+.card.wish-list.mb-3{
+    width: 75%;
+    background-color: whitesmoke;
+    border: 0.5px solid #474747;
+    box-shadow: rgb(150, 150, 150) 3px 3px 5px;
+    border-radius: 11px;
+}
+h5{
+    color: whitesmoke;
+}
+.row{
+    background-color: #181818;
+    border-radius: 16px;
+    padding-top: 5px;
+}
+
+
+
+.mb-4{
+    background-color: #181818;
+    border-radius: 2px;
+}
+.mb-3{
+    background-color: whitesmoke;
+    border-radius: 2px;
+    color: black;
+    padding: 11px;
+}
+.card.mb-3{
+    width: 75%;
+    padding: 11px;
+    border: 11px solid;
+    border-radius: 16px;
+    background-color: #181818;
+    color: white;
+    margin: auto;
+}
+.carrito{   
+    padding-left: 47px;
+    padding-top: 33px;
+    padding-right: 41px;
+}
+
+.card-body{ 
+    background-color :#181818;
+    border-radius: 11px;
+    color: whitesmoke;
+}
+
+.col-md-7.col-lg-9.col-xl-9{
+    border: 11px solid;
+    border-radius: 16px;
+    background-color: #181818;
+    color: whitesmoke;
+}
+
+.mr-2{
+    height: 84px;
+    max-width: 100%;
+}
+
+/* .col-lg-4{
+    background-color: royalblue;
+} */
